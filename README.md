@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Shihan Peng (彭仕涵)
-- 🔭 I am currently pursuing a Master's degree in Artificial Intelligence at [Huazhong University of Science and Technology](https://english.hust.edu.cn/), supervised by [Prof. Yi Chang](https://owuchangyuo.github.io/).
-- 🎓 I obtained my Bachelor's degree in Automation from [Northeastern University at Qinhuangdao](https://www.neuq.edu.cn/).
+- 🔭 I am pursuing an M.Eng. in Artificial Intelligence at [_Huazhong University of Science and Technology_](https://english.hust.edu.cn/), supervised by Prof. [_Yi Chang_](https://owuchangyuo.github.io/).
+- 🎓 I obtained my Bachelor's degree in Automation from [_Northeastern University at Qinhuangdao_](https://www.neuq.edu.cn/).
 
 # 📫 How to reach me
-- ✉️ Email: pengshihan@hust.edu.cn
-- 📝 Google Scholar: [Shihan Peng](https://scholar.google.com/citations?user=Xd6FVrcAAAAJ)
+- ✉️ Email: _pengshihan@hust.edu.cn_
+- 📝 Google Scholar: [_Shihan Peng_](https://scholar.google.com/citations?user=Xd6FVrcAAAAJ)
 
 ---
 
