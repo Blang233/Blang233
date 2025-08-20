@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shihan Peng（彭仕涵）
+# 👋 Hi there, I'm Shihan Peng (彭仕涵)
 - 🔭 I am currently pursuing a Master's degree in Artificial Intelligence at [Huazhong University of Science and Technology](https://english.hust.edu.cn/), supervised by [Prof. Yi Chang](https://owuchangyuo.github.io/).
 - 🎓 I obtained my Bachelor's degree in Automation from [Northeastern University at Qinhuangdao](https://www.neuq.edu.cn/).
 
