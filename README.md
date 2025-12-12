@@ -3,9 +3,9 @@
 - 🎓 I obtained my Bachelor's degree in Automation from [_Northeastern University at Qinhuangdao_](https://www.neuq.edu.cn/).
 
 # 📫 How to reach me
-- ✉️ Email: _pengshihan@hust.edu.cn_
 - 🌐 Blog: [_pengshihan.com_](https://pengshihan.com)
 - 📝 Google Scholar: [_Shihan Peng_](https://scholar.google.com/citations?user=Xd6FVrcAAAAJ)
+- ✉️ Email: _pengshihan@hust.edu.cn_
 
 ---
 
